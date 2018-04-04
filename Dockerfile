@@ -1,2 +1,2 @@
-FROM alpine:3.1
+FROM alpine:3.1@sha256:10de714727daa45047abdfb81c98dbf45e1cad3b590b5043d0da139bfeacebe5
 RUN mkdir -p something
